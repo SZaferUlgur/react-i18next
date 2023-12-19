@@ -1,0 +1,19 @@
+{
+    "main": {
+        "userButon": "Administrator",
+        "profilButon": "Profil"
+    },
+    "tablo": {
+        "baslik": "Codierungstabelle",
+        "silButon": "Löschen",
+        "duzenleButon": "Bearbeiten",
+        "id": "AUSWEIS",
+        "islem": "Verfahren",
+        "adiSoyadi": "Vorname Familienname",
+        "adres": "Adresse",
+        "kodKutuphane": "Codebibliothek"
+    },
+    "footer": {
+        "baslik": "Ausbildung"
+    }
+}
